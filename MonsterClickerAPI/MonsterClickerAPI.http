@@ -1,0 +1,6 @@
+@MonsterClickerAPI_HostAddress = http://localhost:5157
+
+GET {{MonsterClickerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
