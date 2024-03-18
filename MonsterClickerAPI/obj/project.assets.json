@@ -428,24 +428,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AKolsr\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\EHelge\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AKolsr\\monsterclicker\\Boolean-case-MonsterClicker-backend\\MonsterClickerAPI\\MonsterClickerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\EHelge\\Desktop\\Code\\FinalCase\\Boolean-case-MonsterClicker-backend\\MonsterClickerAPI\\MonsterClickerAPI.csproj",
       "projectName": "MonsterClickerAPI",
-      "projectPath": "C:\\Users\\AKolsr\\monsterclicker\\Boolean-case-MonsterClicker-backend\\MonsterClickerAPI\\MonsterClickerAPI.csproj",
-      "packagesPath": "C:\\Users\\AKolsr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AKolsr\\monsterclicker\\Boolean-case-MonsterClicker-backend\\MonsterClickerAPI\\obj\\",
+      "projectPath": "C:\\Users\\EHelge\\Desktop\\Code\\FinalCase\\Boolean-case-MonsterClicker-backend\\MonsterClickerAPI\\MonsterClickerAPI.csproj",
+      "packagesPath": "C:\\Users\\EHelge\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EHelge\\Desktop\\Code\\FinalCase\\Boolean-case-MonsterClicker-backend\\MonsterClickerAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\AKolsr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\EHelge\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -453,7 +448,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
