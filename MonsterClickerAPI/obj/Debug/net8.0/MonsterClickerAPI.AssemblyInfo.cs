@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonsterClickerAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2dd6c3d76d6263de870ac8f102e5e06391baf74")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonsterClickerAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonsterClickerAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
